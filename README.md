@@ -13,12 +13,12 @@ NOTE: Year range is between 2005 and 2020.
 
 For the chosen year provide,
 
-# Number of flights under different cancellation categories using bar chart.
-# Average flight time by reporting airline using line chart.
-# Percentage of diverted airport landings per reporting airline using pie chart.
-# Number of flights flying from each state using choropleth map.
-# Number of flights flying to each state from each reporting airline using treemap chart.
-# Yearly average flight delay statistics
+1. Number of flights under different cancellation categories using bar chart.
+2. Average flight time by reporting airline using line chart.
+3. Percentage of diverted airport landings per reporting airline using pie chart.
+4. Number of flights flying from each state using choropleth map.
+5. Number of flights flying to each state from each reporting airline using treemap chart.
+6. Yearly average flight delay statistics
 
 2. For the chosen year provide,
 
